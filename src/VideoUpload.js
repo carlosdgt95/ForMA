@@ -60,8 +60,7 @@ const ElegantWandSearch = () => {
     if (!couponsDownloaded) {
       const couponImages = [
         { src: '/img/cupones.png', name: 'cupon.png' },
-        // { src: '/img/imagen2.png', name: 'cupon2.png' },
-        // { src: '/img/imagen3.png', name: 'cupon3.png' },
+
       ];
 
       couponImages.forEach(coupon => {
