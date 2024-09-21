@@ -175,6 +175,7 @@ const ElegantWandSearch = () => {
                 key={index}
                 onClick={() => handleImageClick(index)}
                 // disabled={acceptedTerms}
+                ///
                 
                 className="button-regalo"
               >
